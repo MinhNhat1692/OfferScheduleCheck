@@ -1,0 +1,52 @@
+{
+  "name": "offer-schedule-check-vaults",
+  "version": "1.0.0",
+  "description": "Use for CSGOVAULTS.COM",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhNhat1692/OfferScheduleCheck.git"
+  },
+  "keywords": [
+    "csgovaults",
+    "offers",
+    "schedule",
+    "vaults"
+  ],
+  "author": {
+    "name": "Nhat Minh Tran",
+    "email": "minhnhat1692@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinhNhat1692/OfferScheduleCheck/issues"
+  },
+  "homepage": "http://csgovaults.com",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "clone": "^1.0.2"
+  },
+  "gitHead": "8c623f4fa03c99d421d90baa8f5d0e7229b7ed40",
+  "_id": "steam-tradeoffer-manager@1.10.1",
+  "scripts": {},
+  "_shasum": "ccd39ec850b2bb2cab4aba98765a09a2db39fa29",
+  "_from": "steam-tradeoffer-manager@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "doctormckay",
+    "email": "mckay@doctormckay.com"
+  },
+  "dist": {
+    "shasum": "ccd39ec850b2bb2cab4aba98765a09a2db39fa29",
+    "tarball": "http://registry.npmjs.org/steam-tradeoffer-manager/-/steam-tradeoffer-manager-1.10.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "Minh Nhat",
+      "email": "minhnhat1692@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/steam-tradeoffer-manager/-/steam-tradeoffer-manager-1.10.1.tgz"
+}
